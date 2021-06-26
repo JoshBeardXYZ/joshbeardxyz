@@ -2,7 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+hide: true
 ---
 
 
-I’m a marketing professional who builds long-term value for organizations. Connect on [LinkedIn](https://www.linkedin.com/in/joshbeardxyz/). 
+Coming soon...  
