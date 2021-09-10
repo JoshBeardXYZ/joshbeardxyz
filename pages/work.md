@@ -33,6 +33,7 @@ Marketing Automation, Commercial Banking
 
 Marketing Automation, Commercial Banking
 
+<br>
 
 ### Josh D Beard LLC
 
@@ -42,6 +43,7 @@ Brought four years of B2B marketing experience to clients, while searching for m
 - HTML Email Template Development
 - SEO Keyword Research and Site Speed for WordPress Websites
 
+<br>
 
 ### Transmet Corporation
 
@@ -91,6 +93,7 @@ Earned full-time position after successful internship to develop marketing depar
 Social media marketing experiment to create content and grow community on Instagram. Combined a talented writer and a talented graphic designer to create 52 weeks of unique artwork. 
 - Content strategy and constant interaction resulted in 4% week-over-week increase in followers and 11% week-over-week increase in engagement, from 0 to 5K followers. 
 
+<br>
 
 ### Quilts of Valor Foundation
 
