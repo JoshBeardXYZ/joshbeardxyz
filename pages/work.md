@@ -16,6 +16,8 @@ Skills/Abilities: Marketing Strategy, Email Marketing, Marketing Automation, Dig
 Software/Tools: Adobe Marketo, Workfront, Salesforce, Pardot, Webex, Photoshop, iContact, Mailchimp, GitHub Pages, Google
 
 
+<br>
+<br>
 
 
 ## Experience
@@ -58,6 +60,8 @@ Earned full-time position after successful internship to develop marketing depar
 - Implemented new logo and rebranding, improved website's layout to make it mobile-friendly, and took on all aspects of creating email marketing campaigns.
 
 
+<br>
+<br>
 
 
 ## Education 
@@ -73,6 +77,8 @@ Earned full-time position after successful internship to develop marketing depar
 #### High School Diploma &bull; 2006 &mdash; 2010
 
 
+<br>
+<br>
 
 
 ## Projects
@@ -95,4 +101,6 @@ Completed marketing strategy capstone project alongside team for this non-profit
 - Chosen by client as winning marketing strategy. Selected by peers to join board to implement team recommendations. Resulted in 300% increase in quilts awarded each year for two years. 
 
 
+<br>
+<br>
 
