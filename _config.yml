@@ -5,3 +5,4 @@ remote_theme: sylhare/Type-on-Strap
 header_text: Welcome to my blog
 footer_text: 🤍
 paginate: 5
+excerpt: true
