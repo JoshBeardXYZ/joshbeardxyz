@@ -4,5 +4,5 @@ color_theme: auto
 remote_theme: sylhare/Type-on-Strap
 header_text: Welcome to my blog
 footer_text: 🤍
-paginate: 5
+paginate: 25
 excerpt: true
