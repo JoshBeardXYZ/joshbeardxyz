@@ -10,11 +10,9 @@ Hi, I'm Josh Beard. I’m a marketing professional who builds long-term value fo
 
 I work hands-on with marketing systems. During the week you’ll find me working in a dynamic marketing and sales organization with teammates across the United States.
 
+Marketing Strategy • Email Marketing • Marketing Automation • Digital Marketing • Demand Marketing
 
-Skills/Abilities: Marketing Strategy, Email Marketing, Marketing Automation, Digital Marketing, Demand Marketing, Demand Generation
-
-Software/Tools: Adobe Marketo, Workfront, Salesforce, Pardot, Webex, Photoshop, iContact, Mailchimp, GitHub Pages, Google
-
+Marketo • Salesforce • Pardot • Workfront • Webex • Photoshop • iContact • Mailchimp • GitHub • Google
 
 <br>
 <br>
@@ -27,11 +25,11 @@ Software/Tools: Adobe Marketo, Workfront, Salesforce, Pardot, Webex, Photoshop, 
 
 #### Senior Marketing Associate &bull; Feb 2021 &mdash; Present
 
-Marketing Automation, Commercial Banking
+Senior Associate, Marketing Systems, JPMorgan Chase Commercial Banking
 
 #### Marketing Associate &bull; Mar 2019 &mdash; Feb 2021
 
-Marketing Automation, Commercial Banking
+Associate, Marketing Automation, JPMorgan Chase Commercial Banking
 
 <br>
 
@@ -107,3 +105,7 @@ Completed marketing strategy capstone project alongside team for this non-profit
 <br>
 <br>
 
+Connect on <a href="https://www.linkedin.com/in/joshbeardxyz/" title="Josh Beard on LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
+<br>
+<br>
