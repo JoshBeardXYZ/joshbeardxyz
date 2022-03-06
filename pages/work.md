@@ -6,9 +6,9 @@ hide: false
 ---
 
 
-Hi, I'm Josh Beard. I’m a marketing professional who builds long-term value for organizations. I currently bring digital campaigns to market for partners at JPMorgan Chase & Co.
+Hi, I'm Josh Beard. I’m a marketing professional who builds long-term value for organizations. I currently bring digital campaigns to market for partners at JPMorgan Chase Commercial Banking. 
 
-I work hands-on with marketing systems. During the week you’ll find me working in a dynamic marketing and sales organization with teammates across the United States.
+I work hands-on with marketing technology. During the week you’ll find me working in a dynamic marketing and sales organization with teammates across the country.
 
 Marketing Strategy • Email Marketing • Marketing Automation • Digital Marketing • Demand Marketing
 
@@ -25,7 +25,7 @@ Marketo • Salesforce • Pardot • Workfront • Webex • Photoshop • iCon
 
 #### Senior Marketing Associate &bull; Feb 2021 &mdash; Present
 
-Senior Associate, Marketing Systems, JPMorgan Chase Commercial Banking
+Senior Associate, Marketing Systems, Marketing Automation, JPMorgan Chase Commercial Banking
 
 #### Marketing Associate &bull; Mar 2019 &mdash; Feb 2021
 
