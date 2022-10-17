@@ -6,13 +6,14 @@ hide: false
 ---
 
 
-Hi, I'm Josh Beard. I’m a marketing professional who builds long-term value for organizations. I currently bring digital campaigns to market for partners at JPMorgan Chase Commercial Banking. 
+Hi, I'm Josh Beard. I’m a marketing professional with 8+ years experience building long-term value for organizations. I currently bring digital campaigns to market for partners at JPMorgan Chase Commercial Banking. 
 
-I work hands-on with marketing technology. During the week you’ll find me working in a dynamic marketing and sales organization with teammates across the country.
+I work hands-on with marketing technology. During the week you’ll find me working in a dynamic marketing and sales organization with teammates across the country. 
 
-Marketing Strategy • Email Marketing • Marketing Automation • Digital Marketing • Demand Marketing
+Digital Marketing • Marketing Automation • Email Marketing • Marketing Strategy 
 
-Marketo • Salesforce • Pardot • Workfront • Webex • Photoshop • iContact • Mailchimp • GitHub • Google
+Salesforce Marketing Cloud • Marketo • Salesforce CRM • Pardot • Excel • Google • GitHub • Photoshop
+
 
 <br>
 <br>
