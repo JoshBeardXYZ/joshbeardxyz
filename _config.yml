@@ -7,3 +7,5 @@ footer_text: JB
 paginate: 25
 excerpt: true
 google_analytics: UA-222147732-1
+favicon: /img/favicon.ico
+avatar: /img/avatar.png
