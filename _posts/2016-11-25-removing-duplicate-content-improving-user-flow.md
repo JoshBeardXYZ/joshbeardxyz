@@ -3,7 +3,7 @@ layout: post
 title: "Removing Duplicate Content and Improving User Flow"
 excerpt: "Two of our products had duplicate pages serving the same content. Combining these and updating the Products page that led to them improved the experience for the user."
 date: 2016-11-25
-permalink: /blog/removing-duplicate-content-improving-user-flow
+permalink: /posts/removing-duplicate-content-improving-user-flow
 ---
 
 

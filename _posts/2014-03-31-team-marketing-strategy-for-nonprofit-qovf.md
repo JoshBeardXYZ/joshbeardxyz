@@ -3,7 +3,7 @@ layout: post
 title: "Building a Marketing Strategy for Quilts of Valor Foundation"
 excerpt: "Nominated to lead team of marketing strategy consultants for this non-profit organization dedicated to providing quilts for service members and veterans touched by war."
 date: 2014-03-31
-permalink: /blog/team-marketing-strategy-for-nonprofit-qovf
+permalink: /posts/team-marketing-strategy-for-nonprofit-qovf
 ---
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "YouTube SEO: Custom Video Thumbnails"
 excerpt: "I optimized the Transmet YouTube Channel with keywords, a description, contact links, video descriptions, titles, and custom video thumbnails."
 date: 2016-12-09
-permalink: /blog/youtube-seo-custom-video-thumbnails
+permalink: /posts/youtube-seo-custom-video-thumbnails
 ---
 
 

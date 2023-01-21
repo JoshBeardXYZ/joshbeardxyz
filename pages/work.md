@@ -21,12 +21,13 @@ Connect on <a href="https://www.linkedin.com/in/joshbeardxyz/" title="Josh Beard
 ## Experience
 
 ### JPMorgan Chase & Co
+#### Vice President &bull; Feb 2023 &mdash; Present
 
-#### Senior Marketing Associate &bull; Feb 2021 &mdash; Present
+Vice President, Marketing Delivery Lead, JPMorgan Chase Commercial Banking
+#### Senior Associate &bull; Feb 2021 &mdash; Jan 2023
 
 Senior Associate, Marketing Systems, Marketing Automation, JPMorgan Chase Commercial Banking
-
-#### Marketing Associate &bull; Mar 2019 &mdash; Feb 2021
+#### Associate &bull; Mar 2019 &mdash; Feb 2021
 
 Associate, Marketing Automation, JPMorgan Chase Commercial Banking
 

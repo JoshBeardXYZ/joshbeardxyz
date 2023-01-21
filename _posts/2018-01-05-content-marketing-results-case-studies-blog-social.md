@@ -3,7 +3,7 @@ layout: post
 title: "Content Marketing Results: Case Studies, Blog Posts, and Social"
 excerpt: "A focus on content at Transmet led to improvement in 2017: Case Study views grew 418%, Website Users grew 412%, and Inbound Sales Leads grew 124%."
 date: 2018-01-05
-permalink: /blog/content-marketing-results-case-studies-blog-social
+permalink: /posts/content-marketing-results-case-studies-blog-social
 ---
 
 
