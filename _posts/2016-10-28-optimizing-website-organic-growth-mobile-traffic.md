@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing Company Website for Organic Growth and Mobile Traffic"
 excerpt: "Removing duplicate content, adding page descriptions, optimizing images, submitting a sitemap, and more. Website users grew 412% in 2017 with over 100,000 pageviews."
 date: 2016-10-28
-permalink: /blog/optimizing-website-organic-growth-mobile-traffic
+permalink: /posts/optimizing-website-organic-growth-mobile-traffic
 ---
 
 

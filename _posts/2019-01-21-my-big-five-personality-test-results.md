@@ -3,7 +3,7 @@ layout: post
 title: "My Results from the Big Five Personality Test"
 excerpt: "The Big Five Personality Test measures scores on the five major dimensions of personality: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism."
 date: 2019-01-21
-permalink: /blog/my-big-five-personality-test-results
+permalink: /posts/my-big-five-personality-test-results
 ---
 
 

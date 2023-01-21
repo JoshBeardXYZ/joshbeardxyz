@@ -3,7 +3,7 @@ layout: post
 title: "Pardot Email Marketing Program Results"
 excerpt: "The email marketing program at Transmet saw great improvement in 2017 after migrating to Pardot: Open Rate grew 40%, Click Rate grew 72%, and Deliverability went from 96% to 99%."
 date: 2017-12-31
-permalink: /blog/pardot-email-marketing-program-results
+permalink: /posts/pardot-email-marketing-program-results
 ---
 
 

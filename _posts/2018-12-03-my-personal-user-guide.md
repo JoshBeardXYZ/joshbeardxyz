@@ -3,7 +3,7 @@ layout: post
 title: "My Personal User Guide for Improving Trust and Communication"
 excerpt: "Thanks to Gijs Heerkens for creating this tool found on Product Hunt. A personal user guide to speed up trust and effective communication in your life, work, and at home."
 date: 2018-12-03
-permalink: /blog/my-personal-user-guide
+permalink: /posts/my-personal-user-guide
 ---
 
 

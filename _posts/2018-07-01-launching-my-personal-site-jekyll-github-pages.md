@@ -3,7 +3,7 @@ layout: post
 title: "Launching my Personal Site with Jekyll and GitHub Pages"
 excerpt: "Welcome to my personal website, created with Jekyll, the engine behind GitHub Pages. Thanks to Barry Clark for Jekyll Now, and countless other makers for inspiration."
 date: 2018-07-01
-permalink: /blog/launching-my-personal-site-jekyll-github-pages
+permalink: /posts/launching-my-personal-site-jekyll-github-pages
 ---
 
 

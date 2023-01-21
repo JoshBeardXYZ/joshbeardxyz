@@ -3,7 +3,7 @@ layout: post
 title: "Producing Videos to Show Products In Use"
 excerpt: "For the first time ever, we cut a hole in our machine and installed a glass window; allowing us to educate customers with video of our products being used in a manufacturing process."
 date: 2017-07-10
-permalink: /blog/producing-videos-show-products-in-use
+permalink: /posts/producing-videos-show-products-in-use
 ---
 
 

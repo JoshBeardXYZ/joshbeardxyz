@@ -3,7 +3,7 @@ layout: post
 title: "Growing the DreamCartel Instagram Account"
 excerpt: "52 weeks of unique content on Instagram. Grew from 0 to 5,000 followers with 4% weekly increase in followers and 11% weekly increase in engagement."
 date: 2014-12-14
-permalink: /blog/growing-dreamcartel-instagram-account
+permalink: /posts/growing-dreamcartel-instagram-account
 ---
 
 
