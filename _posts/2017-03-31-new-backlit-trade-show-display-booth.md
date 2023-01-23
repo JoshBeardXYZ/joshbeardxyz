@@ -4,6 +4,7 @@ title: "New Backlit Trade Show Display Booth"
 excerpt: "Updating a decade-old trade show display booth with a new backlit display, new product photography, and our new logo."
 date: 2017-03-31
 permalink: /posts/new-backlit-trade-show-display-booth
+comments: true
 ---
 
 

@@ -1,11 +1,16 @@
 title: Josh Beard
 description: "Hi, I'm Josh Beard. I’m a marketing professional with experience building long-term value for organizations."
+
 color_theme: auto
 remote_theme: sylhare/Type-on-Strap
 header_text: Posts about my work experience
 footer_text: JB
 paginate: 25
 excerpt: true
+
 google_analytics: UA-222147732-1
 favicon: /img/favicon.ico
 avatar: /img/avatar.png
+
+comments:
+  disqus_shortname: joshbeard
