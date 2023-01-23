@@ -4,6 +4,7 @@ title: "Highlights from Naval Ravikant's Twitter AMA"
 excerpt: "Naval Ravikant's recent AMA on Twitter, sharing thought-provoking tidbits on advice to younger self, thinking, time vs money, relationships, reading, stress, and health."
 date: 2018-08-21
 permalink: /posts/naval-ravikant-twitter-ama-highlights
+comments: true
 ---
 
 

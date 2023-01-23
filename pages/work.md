@@ -14,7 +14,6 @@ Digital Marketing • Marketing Automation • Email Marketing • Marketing Str
 
 Salesforce Marketing Cloud • Marketo • Salesforce CRM • Pardot • Excel • Google • GitHub • Photoshop
 
-Connect on <a href="https://www.linkedin.com/in/joshbeardxyz/" title="Josh Beard on LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
 
