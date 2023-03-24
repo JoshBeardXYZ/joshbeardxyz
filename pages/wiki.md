@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Knowledge Wiki
+title: Wiki
 permalink: /wiki/
 hide: false
 ---
 
 
-This is my personal wiki where I share what I know from my world and the internet. Shoutout Nikita Voloboev's [Everything I Know](https://wiki.nikiv.dev) wiki for the inspiration. I created this in March 2023 and update frequently.
+This is my personal knowledge wiki where I share what I know from my world and the internet. Shoutout Nikita Voloboev's [Everything I Know](https://wiki.nikiv.dev) wiki for the inspiration. I created this in March 2023 and update frequently.
+
+
 
 ---
 
@@ -44,6 +46,8 @@ This is my personal wiki where I share what I know from my world and the interne
 
 
 
+---
+
 ## macOS Apps
 
 - [BetterDisplay](https://betterdisplay.pro/) - Manage your display's settings easily from the menu bar. Custom resolutions, extra brightness, dummy displays, picture in picture, display overrides and more.
@@ -54,4 +58,8 @@ This is my personal wiki where I share what I know from my world and the interne
 - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) - Hidden Bar lets your hide menu bar items to give your Mac a cleaner look.
 - [Speediness](https://apps.apple.com/us/app/speediness/id1596706466?mt=12) - Quickly check your internet connection speed. Also includes your connection ping and RPM for additional ways to measure latency. Free app by [Sindre Sorhus](https://sindresorhus.com). 
 - [Pure Paste](https://apps.apple.com/us/app/pure-paste/id1611378436?mt=12) - Pure Paste lets you paste as plain text by default. It sits in the menu bar and clears formatting (fonts, colors, bold, links, tables, etc.) from the text you copy. Free app by [Sindre Sorhus](https://sindresorhus.com). 
+
+
+
+---
 
