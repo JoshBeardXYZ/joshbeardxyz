@@ -6,9 +6,9 @@ hide: false
 ---
 
 
-👋 Hi, I'm Josh Beard. I’m a marketing professional with 8+ years experience working in B2B Orgs. I currently bring digital marketing solutions to market for partners at JPMorgan&nbsp;Chase Commercial&nbsp;Banking.  
+👋 Hi, I'm Josh Beard. I’m a marketing professional with 8+ years experience working in B2B Orgs. I currently bring digital marketing solutions to market for partners in Commercial&nbsp;Banking.  
 
-I work hands-on with marketing technology. During the week you’ll find me working in a dynamic marketing and sales organization with teammates across the&nbsp;country.  
+I work hands-on with marketing technology. During the week you’ll find me working in a dynamic marketing and sales organization with teammates across the country. I operate autonomously with a high level of quality and integrity.  
 
 Digital&nbsp;Marketing • Marketing&nbsp;Automation • Email&nbsp;Marketing • Marketing&nbsp;Technology • Sales&nbsp;Enablement  
 
@@ -17,18 +17,18 @@ Marketing&nbsp;Cloud • Marketo • Sales&nbsp;Cloud • Pardot • Excel • G
 
 ---
 
-## Experience
+## Experience  
 
 #### JPMorgan Chase & Co.  
 
 **Vice President &bull; Feb 2023&mdash;Present**  
-Vice President, Marketing Delivery Lead, JPMorgan Chase Commercial&nbsp;Banking  
+Vice President, Marketing Delivery Lead, Marketing Automation Area Product Manager, Commercial&nbsp;Banking  
 
 **Senior Associate &bull; Feb 2021&mdash;Jan 2023**  
-Senior Associate, Marketing Systems, Marketing Automation, JPMorgan Chase Commercial&nbsp;Banking  
+Senior Associate, Marketing Automation, Commercial&nbsp;Banking  
 
 **Associate &bull; Mar 2019&mdash;Feb 2021**  
-Associate, Marketing Automation, JPMorgan Chase Commercial&nbsp;Banking  
+Associate, Marketing Automation, Commercial&nbsp;Banking  
 
 
 #### Josh D Beard LLC  
@@ -60,7 +60,7 @@ Earned full-time position after successful internship to develop marketing depar
 
 ---
 
-## Education
+## Education  
 
 #### The Ohio State University  
 
@@ -73,7 +73,7 @@ Earned full-time position after successful internship to develop marketing depar
 
 ---
 
-## Projects
+## Projects  
 
 #### Dream Cartel  
 
