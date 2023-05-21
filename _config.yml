@@ -3,7 +3,7 @@ description: "👋 Hi, I’m Josh Beard • Leo’s Dad • Beginner’s Mind �
 
 color_theme: auto
 remote_theme: sylhare/Type-on-Strap
-header_text: Posts about work experience
+header_text: 
 footer_text: JB
 paginate: 25
 excerpt: true
