@@ -5,14 +5,13 @@ permalink: /work/
 hide: false
 ---
 
+👋 Hi, I'm Josh Beard. I’m a marketing professional with 8+ years experience working in B2B Orgs. I currently bring digital marketing solutions to market for partners in Commercial&nbsp;Banking. 
 
-👋 Hi, I'm Josh Beard. I’m a marketing professional with 8+ years experience working in B2B Orgs. I currently bring digital marketing solutions to market for partners in Commercial&nbsp;Banking.  
+Digital&nbsp;Marketing • Marketing&nbsp;Automation • Email&nbsp;Marketing • Marketing&nbsp;Technology • Sales&nbsp;Enablement • Digital&nbsp;Transformation • Process&nbsp;Improvement 
 
-I work hands-on with marketing technology. During the week you’ll find me working in a dynamic marketing and sales organization with teammates across the country. I operate autonomously with a high level of quality and integrity.  
+I work hands-on with marketing technology. During the week you’ll find me working in a dynamic organization with teammates across the country. I operate autonomously with a high level of quality and integrity. 
 
-Digital&nbsp;Marketing • Marketing&nbsp;Automation • Email&nbsp;Marketing • Marketing&nbsp;Technology • Sales&nbsp;Enablement  
-
-Marketing&nbsp;Cloud • Marketo • Sales&nbsp;Cloud • Pardot • Excel • GitHub • Photoshop • Google  
+Salesforce Marketing Cloud • Sales&nbsp;Cloud • CRM&nbsp;Analytics • Excel • Git/GitHub • Marketo • Photoshop • Google • Atlassian&nbsp;Cloud
 
 
 ---
