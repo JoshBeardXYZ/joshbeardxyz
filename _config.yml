@@ -1,16 +1,30 @@
+# Site Configuration
 title: Josh Beard
 description: "👋 Hi, I’m Josh Beard • Leo’s Dad • Beginner’s Mind • Rational Optimist • Marketing Professional • Columbus, Ohio"
-
+favicon: /img/favicon.ico
+avatar: /img/avatar.png
 color_theme: auto
 remote_theme: sylhare/Type-on-Strap
 header_text: Posts
 footer_text: JB
-paginate: 5
-excerpt: true
 
+# Features
 google_analytics: UA-222147732-1
-favicon: /img/favicon.ico
-avatar: /img/avatar.png
 
+# Comments
 comments:
   disqus_shortname: joshbeard
+
+# Blog
+excerpt: true
+post_navigation: true
+
+# PAGINATION
+paginate: 5
+paginate_path: "/posts/page:num"
+
+# Build Settings
+sass:
+  style: compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
