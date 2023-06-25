@@ -3,9 +3,9 @@ description: "👋 Hi, I’m Josh Beard • Leo’s Dad • Beginner’s Mind �
 
 color_theme: auto
 remote_theme: sylhare/Type-on-Strap
-header_text: Blog Posts
+header_text: Posts
 footer_text: JB
-paginate: 25
+paginate: 5
 excerpt: true
 
 google_analytics: UA-222147732-1
