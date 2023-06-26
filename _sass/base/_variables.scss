@@ -34,9 +34,9 @@ html, html[data-theme="light"] {
   --selection: #98BEE4;
   --meta: #0072C7;
   --link: #0072C7;
-  --header-background: #000000;
-  --header-text: #FFFFFF;
-  --header-link: #98BEE4;
+  --header-background: #FFFFFF;
+  --header-text: #0072C7;
+  --header-link: #0072C7;
   --code-background: #E0E0E0;
   --code-inline: #24292e;
   --text-shadow: #3f3f3f;
@@ -56,19 +56,19 @@ html[data-theme="dark"] {
   --selection: #98BEE4; // selection
   --meta: #98BEE4; // meta
   --link: #98BEE4; // theme, link, link shadow header bg
-  --header-background: #FFFFFF; // Color before header image load
-  --header-text: #000000; // header text, feature img text
-  --header-link: #0072C7; // header link, search color
+  --header-background: #000000; // Color before header image load
+  --header-text: #98BEE4; // header text, feature img text
+  --header-link: #98BEE4; // header link, search color
   --code-background: #2A3444;
   --code-inline: #d9b600;
   --text-shadow: #2d333b; // text shadow
   --text: #FFFFFF; // text
-  --h1: #d40059; // headers
-  --h2: #b37eff;
-  --h3: #ff66c2;
-  --h4: #00af9e;
-  --h5: #6bac00;
-  --h6: #ff5c00;
+  --h1: #FFFFFF; // headers
+  --h2: #FFFFFF;
+  --h3: #FFFFFF;
+  --h4: #FFFFFF;
+  --h5: #FFFFFF;
+  --h6: #FFFFFF;
   --border: rgba(255, 255, 255, 0.5); // border
   --cusdis--color-text-default: var(--text);
   --cusdis--color-comment-username-text: var(--link);
