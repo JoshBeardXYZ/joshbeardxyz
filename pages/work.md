@@ -5,13 +5,13 @@ permalink: /work/
 hide: false
 ---
 
-👋 Hi, I'm Josh Beard. I’m a marketing professional with 8+ years experience working in B2B Orgs. I currently bring digital marketing solutions to market for partners in Commercial&nbsp;Banking. 
+👋 Hi, I'm Josh Beard. I’m a Marketing Product Manager with 8+ years experience working in B2B Orgs. I currently bring the digital marketing product to market for partners in Commercial Banking. 
 
-Digital&nbsp;Marketing • Marketing&nbsp;Automation • Email&nbsp;Marketing • Marketing&nbsp;Technology • Sales&nbsp;Enablement • Digital&nbsp;Transformation • Process&nbsp;Improvement 
+Digital Marketing • Marketing Automation • Email Marketing • Marketing Technology • Sales Enablement • Digital Transformation • Process Improvement • Product Management 
 
 I work hands-on with marketing technology. During the week you’ll find me working in a dynamic organization with teammates across the country. I operate autonomously with a high level of quality and integrity. 
 
-Salesforce Marketing Cloud • Sales&nbsp;Cloud • CRM&nbsp;Analytics • Excel • Git/GitHub • Marketo • Photoshop • Google • Atlassian&nbsp;Cloud
+Salesforce Marketing Cloud • Salesforce CRM • CRM Analytics • Excel • Git/GitHub • Marketo • Photoshop • Google 
 
 
 ---
@@ -21,7 +21,7 @@ Salesforce Marketing Cloud • Sales&nbsp;Cloud • CRM&nbsp;Analytics • Excel
 #### JPMorgan Chase & Co.  
 
 **Vice President &bull; Feb 2023&mdash;Present**  
-Vice President, Marketing Delivery Lead, Marketing Automation Area Product Manager, Commercial&nbsp;Banking  
+Vice President, Product Manager - Digital Marketing, Commercial&nbsp;Banking  
 
 **Senior Associate &bull; Feb 2021&mdash;Jan 2023**  
 Senior Associate, Marketing Automation, Commercial&nbsp;Banking  
