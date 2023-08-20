@@ -22,6 +22,7 @@ Salesforce Marketing Cloud • Salesforce CRM • CRM Analytics • Excel • Gi
 
 **Vice President &bull; Feb 2023&mdash;Present**  
 Vice President, Product Manager - Digital Marketing, Commercial&nbsp;Banking  
+Skills: Salesforce Marketing Cloud · Team Leadership · High Organizational Skills · Close Attention to Detail · Training · Salesforce.com · Email Marketing · Digital Marketing · Marketing Automation  
 
 **Senior Associate &bull; Feb 2021&mdash;Jan 2023**  
 Senior Associate, Marketing Automation, Commercial&nbsp;Banking  
