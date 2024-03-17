@@ -1,15 +1,12 @@
 # Site Configuration
 title: Josh Beard
-description: "Hi, I'm Josh Beard. I’m a Marketing Product Manager with almost 10 years of experience in B2B Orgs."
+description: "Hi, I'm Josh Beard | Leo's Dad | Rational Optimist | Marketing Professional in Columbus, Ohio | joshbeard.xyz"
 favicon: /img/favicon.ico
 avatar: /img/avatar.png
 color_theme: auto
 remote_theme: sylhare/Type-on-Strap
 header_text: Posts
 footer_text: JB
-
-# Features
-google_analytics: UA-222147732-1
 
 # Comments
 comments:
