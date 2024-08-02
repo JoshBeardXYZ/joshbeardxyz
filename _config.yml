@@ -1,12 +1,12 @@
 # Site Configuration
 title: Josh Beard
-description: "Hi, I'm Josh Beard | Leo's Dad | Rational Optimist | Marketing Professional in Columbus, Ohio | joshbeard.xyz"
+description: "Hi, I'm Josh Beard, VP at JPMorganChase • Product Manager, Sales and Marketing • Leo's Dad • Columbus, OH"
 favicon: /img/favicon.ico
 avatar: /img/avatar.png
 color_theme: auto
 remote_theme: sylhare/Type-on-Strap
 header_text: Posts
-footer_text: JB
+footer_text: Josh Beard (JB)
 
 # Comments
 comments:
@@ -15,6 +15,9 @@ comments:
 # Blog
 excerpt: true
 post_navigation: true
+
+# Features
+google_analytics: "G-M3QV6Z7W14"
 
 # PAGINATION
 paginate: 30

@@ -6,8 +6,7 @@ hide: false
 ---
 
 
-This is my personal knowledge wiki where I share what I know from my world and the internet. Shoutout Nikita Voloboev's [Everything I Know](https://wiki.nikiv.dev) wiki for the inspiration. I created this in March 2023 and update frequently.
-
+This is my personal knowledge wiki where I share what I know from my world and the internet. Shoutout Nikita Voloboev's [Everything I Know](https://wiki.nikiv.dev) wiki for the inspiration. I created this in March 2023 and will update sporadically. 
 
 
 ---
