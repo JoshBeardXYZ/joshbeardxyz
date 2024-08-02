@@ -5,42 +5,48 @@ permalink: /work/
 hide: false
 ---
 
-Hi, I'm Josh Beard. As a Vice President and Product Manager at JPMorgan Chase & Co., I leverage my 10 years of B2B marketing experience to deliver innovative and effective solutions for our Commercial&nbsp;Banking&nbsp;partners. 
 
-I manage the Marketing Automation Platform product, which enables our partners to create and execute personalized and targeted campaigns across multiple channels. I work hands-on with Salesforce Marketing&nbsp;Cloud&nbsp;(SFMC) and other marketing technologies, to optimize the performance and efficiency of our marketing processes and&nbsp;systems. 
+Hi, I'm Josh Beard, VP at JPMorganChase. 
 
-I am passionate about digital transformation and continuous improvement, and I constantly seek new ways to improve our product quality. I operate autonomously with a high level of integrity, and I enjoy working with cross-functional teams to deliver solutions for our&nbsp;business.  
+As a Product Manager in Sales and Marketing, I leverage ten years of B2B marketing experience to deliver innovative and effective solutions for partners in Global Banking. 
+
+I manage the Marketing Automation Platform, which enables our partners to create and execute personalized and targeted campaigns across multiple channels. I work hands-on with Salesforce Marketing Cloud (SFMC) and other marketing technologies, to optimize the performance and efficiency of our processes and capabilities. 
+
+I am passionate about digital transformation and continuous improvement, and I constantly seek new ways to improve our product quality. I operate autonomously with a high level of integrity, and enjoy working with cross-functional teams to deliver solutions for our business. 
+
 &nbsp;
 
-![Top Skills](/img/li-icon-skills-large.png) **Top skills** 
+**Top skills** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Team&nbsp;Leadership • Close&nbsp;Attention&nbsp;to&nbsp;Detail • Salesforce&nbsp;Marketing&nbsp;Cloud • Digital&nbsp;Marketing • Marketing&nbsp;Automation 
+Email Marketing • Team Leadership • Marketing Automation • Close Attention to Detail • Salesforce Marketing Cloud 
 
-&nbsp; 
-&nbsp; 
+&nbsp;
 
 
 ---
 
 ## Experience  
 
-### JPMorgan Chase & Co.  
+### JPMorganChase  
 Vice President &bull; Feb 2023&mdash;Present  
 *Columbus, Ohio*  
-Vice President, Product Manager, Marketing Automation Platform, Commercial&nbsp;Banking  
+Product Manager, Sales and Marketing, Global&nbsp;Banking  
 
 Senior Associate &bull; Feb 2021&mdash;Jan 2023  
 *Chicago, Illinois*  
-Senior Associate, Marketing Automation, Commercial&nbsp;Banking  
+Marketing Automation, Commercial&nbsp;Banking  
 
 Associate &bull; Mar 2019&mdash;Feb 2021  
 *Chicago, Illinois*  
-Associate, Marketing Automation, Commercial&nbsp;Banking  
+Marketing Automation, Commercial&nbsp;Banking  
+
 &nbsp;
+
 
 ### Josh D Beard LLC  
 Freelance Consultant &bull; Jul 2018&mdash;Jan 2019  
 *Chicago, Illinois / Remote*  
+
 &nbsp;
 
 ### Transmet Corporation  
@@ -51,7 +57,7 @@ Sales and Marketing Associate &bull; Aug 2014&mdash;Jul 2016
 *Columbus, Ohio*  
 
 &nbsp; 
-&nbsp; 
+
 
 
 ---
@@ -61,14 +67,9 @@ Sales and Marketing Associate &bull; Aug 2014&mdash;Jul 2016
 ### The Ohio State University Fisher College of Business  
 Bachelor of Science in Business Administration, Marketing &bull; 2010&mdash;2014  
 *Columbus, Ohio*  
+
 &nbsp;
 
-### Kings Local School District  
-High School Diploma &bull; 2006&mdash;2010  
-*Kings Mills, Ohio*  
-
-&nbsp; 
-&nbsp; 
 
 
 ---
@@ -83,7 +84,7 @@ Issued by Fisher College of Business Office of Global Business &bull; Apr 2014
 Issued by Dr. Shashi Matta &bull; Dec 2013  
 
 &nbsp;
-&nbsp;
+
 
 
 ---
