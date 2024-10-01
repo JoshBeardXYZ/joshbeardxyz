@@ -5,16 +5,17 @@ permalink: /
 hide: false
 ---
 
-
-**Hi, I'm Josh Beard, VP at JPMorganChase • Product Manager, Sales and Marketing • Leo's Dad • Columbus, OH.**  
+**Hi, I'm Josh Beard · Vice President at JPMorganChase · Product Manager, Sales and Marketing · Leo's Dad · Buckeye**
 
 &nbsp;
 
-As a Product Manager in Sales and Marketing, I leverage ten years of B2B marketing experience to deliver innovative and effective solutions for partners in Global Banking. 
+Hi, I’m Josh Beard, Vice President at JPMorganChase, where I serve as a Product Manager in Sales and Marketing. With over 10 years of B2B marketing experience and 5+ years at JPMorganChase, I specialize in delivering innovative, data-driven solutions for partners in Global Banking. 
 
-I manage the Marketing Automation Platform, which enables our partners to create and execute personalized and targeted campaigns across multiple channels. I work hands-on with Salesforce Marketing Cloud (SFMC) and other marketing technologies, to optimize the performance and efficiency of our processes and capabilities. 
+In my role, I manage the Marketing Automation Platform, empowering our partners to design and execute targeted, multi-channel campaigns. I work closely with Salesforce Marketing Cloud (SFMC) and other leading sales and marketing technologies. 
 
-I am passionate about digital transformation and continuous improvement, and I constantly seek new ways to improve our product quality. I operate autonomously with a high level of integrity, and enjoy working with cross-functional teams to deliver solutions for our business. 
+I am passionate about digital transformation, continuous improvement and finding new ways to enhance both efficiency and quality. I thrive in collaborative environments, working alongside cross-functional teams to drive impactful business solutions while maintaining a high level of integrity and autonomy. 
+
+On a personal note, I’m a proud father to Leo and live in Columbus, Ohio, with my wife and our two cats. When I’m not focused on work, you can find me working on home projects, playing outdoors, competing in video games, listening to music or cheering on the Buckeyes with friends.
 
 &nbsp; 
 
@@ -24,7 +25,7 @@ I am passionate about digital transformation and continuous improvement, and I c
 
 &nbsp; • &nbsp;The <a href="https://joshbeard.xyz/posts/" title="Posts | Josh Beard" style="font-weight:bold;">Posts</a> section has some writing from projects in the past. 
 
-&nbsp; • &nbsp;The <a href="https://joshbeard.xyz/wiki/" title="Wiki | Josh Beard" style="font-weight:bold;">Wiki</a> is new and intended to be a place to share personal knowledge from all&nbsp;domains. 
+&nbsp; • &nbsp;The <a href="https://joshbeard.xyz/wiki/" title="Wiki | Josh Beard" style="font-weight:bold;">Wiki</a> is newer and intended to be a place to share knowledge from all&nbsp;domains. 
 
 &nbsp; **JB** &nbsp;
 

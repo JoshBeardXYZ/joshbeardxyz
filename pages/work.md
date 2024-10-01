@@ -5,58 +5,75 @@ permalink: /work/
 hide: false
 ---
 
+Hi, I’m Josh Beard, Vice President at JPMorganChase, where I serve as a Product Manager in Sales and Marketing. With over 10 years of B2B marketing experience and 5+ years at JPMorganChase, I specialize in delivering innovative, data-driven solutions for partners in Global Banking. 
 
-Hi, I'm Josh Beard, VP at JPMorganChase. 
+In my role, I manage the Marketing Automation Platform, empowering our partners to design and execute targeted, multi-channel campaigns. I work closely with Salesforce Marketing Cloud (SFMC) and other leading sales and marketing technologies. 
 
-As a Product Manager in Sales and Marketing, I leverage ten years of B2B marketing experience to deliver innovative and effective solutions for partners in Global Banking. 
+I am passionate about digital transformation, continuous improvement and finding new ways to enhance both efficiency and quality. I thrive in collaborative environments, working alongside cross-functional teams to drive impactful business solutions while maintaining a high level of integrity and autonomy. 
 
-I manage the Marketing Automation Platform, which enables our partners to create and execute personalized and targeted campaigns across multiple channels. I work hands-on with Salesforce Marketing Cloud (SFMC) and other marketing technologies, to optimize the performance and efficiency of our processes and capabilities. 
-
-I am passionate about digital transformation and continuous improvement, and I constantly seek new ways to improve our product quality. I operate autonomously with a high level of integrity, and enjoy working with cross-functional teams to deliver solutions for our business. 
+On a personal note, I’m a proud father to Leo and live in Columbus, Ohio, with my wife and our two cats. When I’m not focused on work, you can find me working on home projects, playing outdoors, competing in video games, listening to music or cheering on the Buckeyes with friends. 
 
 &nbsp;
 
 **Top skills** 
 
-Email Marketing • Team Leadership • Marketing Automation • Close Attention to Detail • Salesforce Marketing Cloud 
+Email Marketing · Team Leadership · Marketing Automation · Close Attention to Detail · Salesforce Marketing Cloud 
+
+
+**Skills (cont.)** 
+
+SQL for SFMC · Digital Marketing · Email Deliverability · Email Inbox Testing · Salesforce Sales Cloud · High Organizational Skills · Marketing Communications · Team Training and Coaching 
 
 &nbsp;
+
 
 
 ---
 
 ## Experience  
 
-### JPMorganChase  
-Vice President &bull; Feb 2023&mdash;Present  
-*Columbus, Ohio*  
-Product Manager, Sales and Marketing, Global&nbsp;Banking  
+**Vice President, Product Manager** 
+JPMorganChase · Global Banking 
+Feb 2023 - Present · 1 yr 9 mos 
+Columbus, Ohio · On-site 
 
-Senior Associate &bull; Feb 2021&mdash;Jan 2023  
-*Chicago, Illinois*  
-Marketing Automation, Commercial&nbsp;Banking  
+**Senior Associate, Marketing Delivery Lead** 
+JPMorganChase · Commercial Banking 
+Feb 2021 - Jan 2023 · 2 yrs 
+Chicago, Illinois · Hybrid 
 
-Associate &bull; Mar 2019&mdash;Feb 2021  
-*Chicago, Illinois*  
-Marketing Automation, Commercial&nbsp;Banking  
+**Associate, Marketing Automation Associate** 
+JPMorganChase · Commercial Banking 
+Mar 2019 - Feb 2021 · 2 yrs 
+Chicago, Illinois · On-site 
+
+**Marketing Manager** 
+Transmet Corporation 
+Jul 2016 - Jun 2018 · 2 yrs 
+Chicago, Illinois · Hybrid 
+* Promoted to Marketing Manager working hybrid between Chicago and Columbus to further develop the marketing department. 
+* Led major ESP switch from iContact to Pardot. Click Rate growth of 72% and Open Rate growth of 40%. 
+* Improved quality of data and reporting in Salesforce. Helped reduce average sales cycle time from 9.7 months to 5.0 months. Contributed to 24% increase in Sales Qualified Leads and 68% Inbound Leads. 
+* Produced marketing content to educate Customers and Product Distributors. Website Visitors grew 412% year-over-year, Case Study Downloads grew 148% and Video Views grew 124%. 
+
+**Sales and Marketing Associate** 
+Transmet Corporation 
+Aug 2014 - Jul 2016 · 2 yrs 
+Columbus, Ohio · On-site 
+* Earned full-time position after internship to develop marketing and boost new business at 14-person private manufacturing company. 
+* Grew lead base from 6K to 24K in Salesforce. 
+* Took over leadership of weekly “walk and talk” meetings to share improvements among colleagues. Participation increased by 273%. 
+* Implemented new logo and branding, updated website to be mobile-friendly and took ownership of email marketing campaigns. 
+
+**Ohio Export Internship Program Intern** 
+Transmet Corporation 
+Jan 2014 - Aug 2014 · 8 mos 
+Columbus, Ohio · On-site 
+* Selected for inclusion in Program at Fisher College of Business. Extensive education component before a full-time internship. Joined local SMB Manufacturer, Transmet Corporation, to overhaul and improve export business. 
+* Identified market for product in Mexico's automotive industry, leading to a new company relationship with a local Distributor. 
+* Arranged international orders to Canada, Mexico, Spain, Netherlands, New Zealand and Argentina. 
 
 &nbsp;
-
-
-### Josh D Beard LLC  
-Freelance Consultant &bull; Jul 2018&mdash;Jan 2019  
-*Chicago, Illinois / Remote*  
-
-&nbsp;
-
-### Transmet Corporation  
-Marketing Manager &bull; Jul 2016&mdash;Jun 2018  
-*Columbus, Ohio*  
-
-Sales and Marketing Associate &bull; Aug 2014&mdash;Jul 2016  
-*Columbus, Ohio*  
-
-&nbsp; 
 
 
 
@@ -64,9 +81,9 @@ Sales and Marketing Associate &bull; Aug 2014&mdash;Jul 2016
 
 ## Education  
 
-### The Ohio State University Fisher College of Business  
-Bachelor of Science in Business Administration, Marketing &bull; 2010&mdash;2014  
-*Columbus, Ohio*  
+**The Ohio State University Fisher College of Business** 
+Bachelor of Science in Business Administration 
+2010 - 2014 
 
 &nbsp;
 
@@ -74,19 +91,17 @@ Bachelor of Science in Business Administration, Marketing &bull; 2010&mdash;2014
 
 ---
 
-## Honors and awards  
-
-### Ohio Export Internship Program  
-Issued by Fisher College of Business Office of Global Business &bull; Apr 2014  
-&nbsp;
-
-### Fisher Marketing Capstone Winning Team  
-Issued by Dr. Shashi Matta &bull; Dec 2013  
+**Top skills** 
+Email Marketing · Team Leadership · Marketing Automation · Close Attention to Detail · Salesforce Marketing Cloud 
 
 &nbsp;
 
 
+**Skills (cont.)** 
+SQL for SFMC · Digital Marketing · Email Deliverability · Email Inbox Testing · Salesforce Sales Cloud · High Organizational Skills · Marketing Communications · Team Training and Coaching 
 
----
+&nbsp;
+
+
 
 Connect on <a href="https://www.linkedin.com/in/joshbeardxyz/" title="Josh Beard on LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a> for more&nbsp;details.
