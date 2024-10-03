@@ -5,17 +5,17 @@ permalink: /
 hide: false
 ---
 
-**Hi, I'm Josh Beard · Vice President at JPMorganChase · Product Manager, Sales and Marketing · Leo's Dad · Buckeye**
+**Hi, I'm Josh Beard · VP at JPMorganChase · Product Manager, Sales and Marketing · Leo's Dad · Buckeye**
 
 &nbsp;
 
-Hi, I’m Josh Beard, Vice President at JPMorganChase, where I serve as a Product Manager in Sales and Marketing. With over 10 years of B2B marketing experience and 5+ years at JPMorganChase, I specialize in delivering innovative, data-driven solutions for partners in Global Banking. 
+Hi, I’m Josh Beard, Vice President at JPMorganChase, where I serve as a Product Manager in Sales and Marketing. With over 10 years of B2B marketing experience and 5+ years at JPMorganChase, I specialize in delivering innovative, data-driven solutions for partners in Global&nbsp;Banking. 
 
-In my role, I manage the Marketing Automation Platform, empowering our partners to design and execute targeted, multi-channel campaigns. I work closely with Salesforce Marketing Cloud (SFMC) and other leading sales and marketing technologies. 
+In my role, I manage the Marketing Automation Platform, empowering our partners to design and execute targeted, multi-channel campaigns. I work closely with Salesforce Marketing Cloud (SFMC) and other leading sales and marketing&nbsp;technologies. 
 
-I am passionate about digital transformation, continuous improvement and finding new ways to enhance both efficiency and quality. I thrive in collaborative environments, working alongside cross-functional teams to drive impactful business solutions while maintaining a high level of integrity and autonomy. 
+I am passionate about digital transformation, continuous improvement and finding new ways to enhance both efficiency and quality. I thrive in collaborative environments, working alongside cross-functional teams to drive impactful business solutions while maintaining a high level of integrity and&nbsp;autonomy. 
 
-On a personal note, I’m a proud father to Leo and live in Columbus, Ohio, with my wife and our two cats. When I’m not focused on work, you can find me working on home projects, playing outdoors, competing in video games, listening to music or cheering on the Buckeyes with friends.
+On a personal note, I’m a proud father to Leo and live in Columbus, Ohio, with my wife and our two cats. When I’m not focused on work, you can find me working on home projects, playing outdoors, competing in video games, listening to music or cheering on the Buckeyes with&nbsp;friends.
 
 &nbsp; 
 
