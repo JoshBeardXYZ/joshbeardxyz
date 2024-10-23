@@ -5,11 +5,11 @@ permalink: /
 hide: false
 ---
 
-**Hi, I'm Josh Beard · VP at JPMorganChase · Product Manager, Sales and Marketing · Leo's Dad · Buckeye**
+**Hi, I’m Josh Beard · B2B Marketing Professional · Marketing Automation, Email Marketing · Leo's Dad · Buckeye** 
 
 &nbsp;
 
-Hi, I’m Josh Beard, Vice President at JPMorganChase, where I serve as a Product Manager in Sales and Marketing. With over 10 years of B2B marketing experience and 5+ years at JPMorganChase, I specialize in delivering innovative, data-driven solutions for partners in Global&nbsp;Banking. 
+With over 10 years of B2B marketing experience and 5+ years at JPMorganChase, I specialize in delivering innovative, data-driven solutions for partners in Global&nbsp;Banking. 
 
 In my role, I manage the Marketing Automation Platform, empowering our partners to design and execute targeted, multi-channel campaigns. I work closely with Salesforce Marketing Cloud (SFMC) and other leading sales and marketing&nbsp;technologies. 
 
