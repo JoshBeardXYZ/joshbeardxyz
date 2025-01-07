@@ -5,17 +5,17 @@ permalink: /work/
 hide: false
 ---
 
-Hi, I’m Josh Beard, Vice President at JPMorganChase, where I serve as a Product Manager in Sales and Marketing. With over 10 years of B2B marketing experience and 5+ years at JPMorganChase, I specialize in delivering innovative, data-driven solutions for partners in Global&nbsp;Banking.  
-
-In my role, I manage the Marketing Automation Platform, empowering our partners to design and execute targeted, multi-channel campaigns. I work closely with Salesforce Marketing Cloud (SFMC) and other leading sales and marketing&nbsp;technologies.  
-
-I am passionate about digital transformation, continuous improvement and finding new ways to enhance both efficiency and quality. I thrive in collaborative environments, working alongside cross-functional teams to drive impactful business solutions while maintaining a high level of integrity and&nbsp;autonomy.  
-
-On a personal note, I’m a proud father to Leo and live in Columbus, Ohio, with my wife and our two cats. When I’m not focused on work, you can find me working on home projects, playing outdoors, competing in video games, listening to music or cheering on the Buckeyes with&nbsp;friends.  
+**Josh Beard · Marketing Automation Leader · Dad · Buckeye** 
 
 &nbsp;
 
+Business and Marketing Automation Leader with extensive experience in B2B organizations, specializing in delivering innovative, data-driven marketing solutions. Proven track record of success in improving email campaign performance metrics and leading cross-functional teams to achieve business objectives. 
 
+Expertise in marketing automation platforms, including Salesforce Marketing Cloud and Adobe Marketo, and a deep understanding of the leading sales and marketing technologies. 
+
+When I’m not at work, you can find me exploring home improvement projects, spending time outdoors, and cheering on the Buckeyes with my family in Columbus, Ohio. 
+
+&nbsp; 
 
 ---
 
@@ -23,7 +23,7 @@ On a personal note, I’m a proud father to Leo and live in Columbus, Ohio, with
 
 **Vice President, Product Manager**  
 JPMorganChase · Global Banking  
-Feb 2023 - Present · 1 yr 9 mos  
+Feb 2023 - Present · 2 yrs  
 Columbus, Ohio · On-site  
 
 **Senior Associate, Marketing Delivery Lead**  
@@ -40,31 +40,18 @@ Chicago, Illinois · On-site
 Transmet Corporation  
 Jul 2016 - Jun 2018 · 2 yrs  
 Chicago, Illinois · Hybrid  
-* Promoted to Marketing Manager working hybrid between Chicago and Columbus to further develop the marketing department. 
-* Led major ESP switch from iContact to Pardot. Click Rate growth of 72% and Open Rate growth of 40%. 
-* Improved quality of data and reporting in Salesforce. Helped reduce average sales cycle time from 9.7 months to 5.0 months. Contributed to 24% increase in Sales Qualified Leads and 68% Inbound Leads. 
-* Produced marketing content to educate Customers and Product Distributors. Website Visitors grew 412% year-over-year, Case Study Downloads grew 148% and Video Views grew 124%. 
 
-**Sales and Marketing Associate**  
+**Marketing Associate**  
 Transmet Corporation  
 Aug 2014 - Jul 2016 · 2 yrs  
 Columbus, Ohio · On-site  
-* Earned full-time position after internship to develop marketing and boost new business at 14-person private manufacturing company. 
-* Grew lead base from 6K to 24K in Salesforce. 
-* Took over leadership of weekly “walk and talk” meetings to share improvements among colleagues. Participation increased by 273%. 
-* Implemented new logo and branding, updated website to be mobile-friendly and took ownership of email marketing campaigns. 
 
-**Ohio Export Internship Program Intern**  
+**Export Intern**  
 Transmet Corporation  
 Jan 2014 - Aug 2014 · 8 mos  
 Columbus, Ohio · On-site  
-* Selected for inclusion in Program at Fisher College of Business. Extensive education component before a full-time internship. Joined local SMB Manufacturer, Transmet Corporation, to overhaul and improve export business. 
-* Identified market for product in Mexico's automotive industry, leading to a new company relationship with a local Distributor. 
-* Arranged international orders to Canada, Mexico, Spain, Netherlands, New Zealand and Argentina. 
 
 &nbsp;
-
-
 
 ---
 
@@ -76,23 +63,16 @@ Bachelor of Science in Business Administration
 
 &nbsp;
 
-
-
 ---
 
-**Top skills**  
-Email Marketing · Team Leadership · Marketing Automation · Close Attention to Detail · Salesforce Marketing Cloud 
-
 &nbsp;
 
-
-**Skills (cont.)**  
-SQL for SFMC · Digital Marketing · Email Deliverability · Email Inbox Testing · Salesforce Sales Cloud · High Organizational Skills · Marketing Communications · Team Training and Coaching · Product Management · Microsoft Excel
-
-&nbsp;
+View my <a href="https://joshbeard.xyz/img/other/Josh-Beard-Resume-2025.pdf" title="Josh Beard Resume 2025" target="_blank" rel="noopener noreferrer">Resume</a> for details.  
 
 
+Connect on <a href="https://www.linkedin.com/in/joshbeardxyz/" title="Josh Beard on LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a> for&nbsp;more.  
 
-Connect on <a href="https://www.linkedin.com/in/joshbeardxyz/" title="Josh Beard on LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a> for more&nbsp;details.
 
-&nbsp;
+Browse my <a href="https://joshbeard.xyz/img/other/Josh-Beard-Resume-2025.pdf" title="Josh Beard on CodePen" target="_blank" rel="noopener noreferrer">CodePen</a> for&nbsp;samples.  
+
+

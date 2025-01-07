@@ -1,6 +1,6 @@
 # Site Configuration
 title: Josh Beard
-description: "Hi, I'm Josh Beard, VP at JPMorganChase • Product Manager, Sales and Marketing • Leo's Dad • Columbus, OH"
+description: "Josh Beard • Business and Marketing Automation Leader • Dad • Buckeye"
 favicon: /img/favicon.ico
 avatar: /img/avatar.png
 color_theme: auto
@@ -69,9 +69,6 @@ exclude:
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/JoshBeardXYZ"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/joshdbeard/"
