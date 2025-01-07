@@ -27,6 +27,6 @@ View my <a href="https://joshbeard.xyz/img/other/Josh-Beard-Resume-2025.pdf" tit
 Connect on <a href="https://www.linkedin.com/in/joshbeardxyz/" title="Josh Beard on LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a> for&nbsp;more.  
 
 
-Browse my <a href="https://joshbeard.xyz/img/other/Josh-Beard-Resume-2025.pdf" title="Josh Beard on CodePen" target="_blank" rel="noopener noreferrer">CodePen</a> for&nbsp;samples.  
+Browse my <a href="https://codepen.io/JoshBeard" title="Josh Beard on CodePen" target="_blank" rel="noopener noreferrer">CodePen</a> for&nbsp;samples.  
 
 
