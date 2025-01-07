@@ -5,28 +5,28 @@ permalink: /
 hide: false
 ---
 
-**Hi, I’m Josh Beard · B2B Marketing Professional · Marketing Automation, Email Marketing · Leo's Dad · Buckeye** 
+**Josh Beard · Marketing Automation Leader · Dad · Buckeye** 
 
 &nbsp;
 
-With over 10 years of B2B marketing experience and 5+ years at JPMorganChase, I specialize in delivering innovative, data-driven solutions for partners in Global&nbsp;Banking. 
+Business and Marketing Automation Leader with extensive experience in B2B organizations, specializing in delivering innovative, data-driven marketing solutions. Proven track record of success in improving email campaign performance metrics and leading cross-functional teams to achieve business objectives. 
 
-In my role, I manage the Marketing Automation Platform, empowering our partners to design and execute targeted, multi-channel campaigns. I work closely with Salesforce Marketing Cloud (SFMC) and other leading sales and marketing&nbsp;technologies. 
+Expertise in marketing automation platforms, including Salesforce Marketing Cloud and Adobe Marketo, and a deep understanding of the leading sales and marketing technologies. 
 
-I am passionate about digital transformation, continuous improvement and finding new ways to enhance both efficiency and quality. I thrive in collaborative environments, working alongside cross-functional teams to drive impactful business solutions while maintaining a high level of integrity and&nbsp;autonomy. 
-
-On a personal note, I’m a proud father to Leo and live in Columbus, Ohio, with my wife and our two cats. When I’m not focused on work, you can find me working on home projects, playing outdoors, competing in video games, listening to music or cheering on the Buckeyes with&nbsp;friends.
+When I’m not at work, you can find me exploring home improvement projects, spending time outdoors, and cheering on the Buckeyes with my family in Columbus, Ohio. 
 
 &nbsp; 
 
 ---
 
-&nbsp; • &nbsp;The <a href="https://joshbeard.xyz/work/" title="Work | Josh Beard" style="font-weight:bold;">Work</a> page resembles LinkedIn and has additional details about my&nbsp;career. 
-
-&nbsp; • &nbsp;The <a href="https://joshbeard.xyz/posts/" title="Posts | Josh Beard" style="font-weight:bold;">Posts</a> section has some writing from projects in the past. 
-
-&nbsp; • &nbsp;The <a href="https://joshbeard.xyz/wiki/" title="Wiki | Josh Beard" style="font-weight:bold;">Wiki</a> is newer and intended to be a place to share knowledge from all&nbsp;domains. 
-
-&nbsp; **JB** &nbsp;
-
 &nbsp;
+
+View my <a href="https://joshbeard.xyz/img/other/Josh-Beard-Resume-2025.pdf" title="Josh Beard Resume 2025" target="_blank" rel="noopener noreferrer">Resume</a> for details.  
+
+
+Connect on <a href="https://www.linkedin.com/in/joshbeardxyz/" title="Josh Beard on LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a> for&nbsp;more.  
+
+
+Browse my <a href="https://joshbeard.xyz/img/other/Josh-Beard-Resume-2025.pdf" title="Josh Beard on CodePen" target="_blank" rel="noopener noreferrer">CodePen</a> for&nbsp;samples.  
+
+
