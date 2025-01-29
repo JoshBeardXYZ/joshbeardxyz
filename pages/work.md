@@ -5,7 +5,7 @@ permalink: /work/
 hide: false
 ---
 
-**Josh Beard · Marketing Automation Leader · Dad · Buckeye** 
+**Josh Beard · Marketing Automation Leader · Dad · Buckeye · 🇺🇸** 
 
 &nbsp;
 
