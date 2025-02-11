@@ -5,7 +5,7 @@ permalink: /work/
 hide: false
 ---
 
-**Josh Beard · Marketing Professional · Dad · Buckeye · 🇺🇸** 
+**Josh Beard** · Marketing Automation Leader · SFMC & Marketo Expert · 10+ Years B2B Enterprise Experience 
 
 &nbsp;
 
@@ -23,7 +23,7 @@ When I’m not at work, you can find me exploring home improvement projects, spe
 
 **Vice President, Product Manager**  
 JPMorganChase · Global Banking  
-Feb 2023 - Present · 2 yrs  
+Feb 2023 - Feb 2025 · 2 yrs  
 Columbus, Ohio · On-site  
 
 **Senior Associate, Marketing Delivery Lead**  
