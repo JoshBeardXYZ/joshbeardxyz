@@ -5,7 +5,7 @@ permalink: /
 hide: false
 ---
 
-**Josh Beard · Marketing Professional · Dad · Buckeye · 🇺🇸** 
+**Josh Beard** · Marketing Automation Leader · SFMC & Marketo Expert · 10+ Years B2B Enterprise Experience 
 
 &nbsp;
 
